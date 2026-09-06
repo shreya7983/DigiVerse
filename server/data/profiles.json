@@ -1,0 +1,119 @@
+[
+  {
+    "archetype": {
+      "title": "The Oceanic Synthesist",
+      "tagline": "Symbiotic intelligence and biophilic urban regeneration.",
+      "description": "Your vision integrates oceanic calm, clean technology, and human dignity."
+    },
+    "scores": {
+      "innovation": 92,
+      "sustainability": 96,
+      "humanImpact": 94,
+      "aiIntegration": 85,
+      "digitalWellbeing": 95
+    },
+    "choices": {
+      "aiLevel": 8,
+      "sustainabilityLevel": 10,
+      "smartCitiesLevel": 9,
+      "collaborationLevel": 9,
+      "educationModel": "personalized",
+      "healthcareModel": "assisted"
+    },
+    "strengths": [
+      "Sea-green biophilic balance",
+      "Closed-loop compute"
+    ],
+    "priorities": [
+      "Regenerative marine energy",
+      "Sovereign AI commons"
+    ],
+    "technologies": [
+      "Living biomaterials",
+      "Clean geothermal nodes"
+    ],
+    "challenges": [
+      "Global consensus coordination"
+    ],
+    "id": "vision-1788633583643-yqfv6z",
+    "createdAt": "2026-09-05T18:39:43.643Z"
+  },
+  {
+    "archetype": {
+      "title": "The Regenerative Architect",
+      "tagline": "Technology in symbiotic harmony with natural planetary boundaries.",
+      "description": "Your vision places ecological regeneration at the pinnacle of innovation."
+    },
+    "scores": {
+      "innovation": 88,
+      "sustainability": 95,
+      "humanImpact": 90,
+      "aiIntegration": 82,
+      "digitalWellbeing": 92
+    },
+    "choices": {
+      "aiLevel": 7,
+      "sustainabilityLevel": 9,
+      "smartCitiesLevel": 8,
+      "collaborationLevel": 8,
+      "educationModel": "personalized",
+      "healthcareModel": "assisted"
+    },
+    "strengths": [
+      "Planetary balance",
+      "Closed-loop silicon"
+    ],
+    "priorities": [
+      "Carbon-negative compute",
+      "Biophilic cities"
+    ],
+    "technologies": [
+      "Living bio-materials",
+      "Passive solar cooling"
+    ],
+    "challenges": [
+      "Infrastructure inertia"
+    ],
+    "id": "vision-1788632243357-vb8o4t",
+    "createdAt": "2026-09-05T18:17:23.357Z"
+  },
+  {
+    "archetype": {
+      "title": "The Regenerative Architect",
+      "tagline": "Technology in symbiotic harmony with natural planetary boundaries.",
+      "description": "Your vision places ecological regeneration at the pinnacle of innovation."
+    },
+    "scores": {
+      "innovation": 85,
+      "sustainability": 92,
+      "humanImpact": 88,
+      "aiIntegration": 80,
+      "digitalWellbeing": 90
+    },
+    "choices": {
+      "aiLevel": 7,
+      "sustainabilityLevel": 9,
+      "smartCitiesLevel": 8,
+      "collaborationLevel": 8,
+      "educationModel": "personalized",
+      "healthcareModel": "assisted"
+    },
+    "strengths": [
+      "Long-term thinking",
+      "Closed-loop sustainability"
+    ],
+    "priorities": [
+      "Carbon-negative compute",
+      "Biophilic cities"
+    ],
+    "technologies": [
+      "Living bio-materials",
+      "Passive solar cooling"
+    ],
+    "challenges": [
+      "Infrastructure inertia"
+    ],
+    "id": "vision-1788373045098-nd4ksq",
+    "createdAt": "2026-09-02T18:17:25.098Z"
+  }
+]

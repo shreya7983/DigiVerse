@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --seagreen-primary: #176B63;
+    --seagreen-secondary: #2F8F83;
+    --seagreen-dark: #0E4F4A;
+    --seagreen-seafoam: #D8F0EA;
+    --seagreen-aqua: #EAF7F4;
+    --seagreen-cream: #F6F3EC;
+    --seagreen-charcoal: #17201F;
+    --seagreen-gold: #C8A96B;
+  }
+
+  body {
+    background-color: #0E4F4A;
+    color: #FFFFFF;
+    overflow-x: hidden;
+    letter-spacing: -0.012em;
+    font-family: 'Manrope', system-ui, sans-serif;
+  }
+
+  /* Luxury Sea-Green Scrollbar */
+  ::-webkit-scrollbar {
+    width: 7px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #0A332F;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #2F8F83;
+    border-radius: 9999px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #176B63;
+  }
+}
+
+@layer utilities {
+  .editorial-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+    letter-spacing: -0.025em;
+    line-height: 1.08;
+  }
+
+  .font-script-accent {
+    font-family: 'Pinyon Script', cursive;
+    font-weight: 400;
+  }
+
+  .glass-header {
+    background: rgba(10, 51, 47, 0.75);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-bottom: 1px solid rgba(47, 143, 131, 0.25);
+  }
+
+  .glass-card-light {
+    background: rgba(18, 78, 71, 0.65);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(216, 240, 234, 0.15);
+  }
+
+  .glass-card-dark {
+    background: rgba(10, 51, 47, 0.85);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(47, 143, 131, 0.3);
+  }
+
+  .glass-rail {
+    background: rgba(10, 51, 47, 0.8);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid rgba(200, 169, 107, 0.35);
+    box-shadow: 0 10px 35px -5px rgba(6, 29, 28, 0.5);
+  }
+
+  .text-gold-accent {
+    color: #C8A96B;
+  }
+
+  .border-gold-accent {
+    border-color: rgba(200, 169, 107, 0.4);
+  }
+}
